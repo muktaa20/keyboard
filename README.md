@@ -1,7 +1,7 @@
 Here's a README.md file for your QWERTY Keyboard Simulator project. It includes a project overview, installation steps, features, usage instructions, and contribution guidelines.
 
 
-# 🎹 QWERTY Keyboard
+# QWERTY Keyboard
 
 A virtual **QWERTY keyboard** built with **HTML, CSS, and JavaScript**. This simulator visually represents key presses on a digital keyboard and allows users to type interactively.
 
